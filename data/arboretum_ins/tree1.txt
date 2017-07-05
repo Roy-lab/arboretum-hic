@@ -1,0 +1,7 @@
+#Child	LeftorRight	Parent	Prob_of_gaining_edge P(e_child=1|e_parent=0)	Prob_of_maintaining_edge P(e_child=1|e_parent=1)
+hESC	left	Anc3
+hIMR90	right	Anc3
+mESC	left	Anc2
+mCortex	right	Anc2
+Anc3	left	Anc1
+Anc2	right	Anc1
